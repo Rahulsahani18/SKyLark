@@ -1,0 +1,7 @@
+{
+  "name": "Hotel Sky Lark & Shangilla Restaurant",
+  "description": "A premium hospitality experience featuring luxury rooms, fine dining at Shangilla Restaurant, and an AI-powered concierge for personalized guest assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
